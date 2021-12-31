@@ -1,0 +1,4 @@
+manifests-*/
+bin/
+config.json
+downloads/
